@@ -1,0 +1,14 @@
+APK METADATA
+=============
+Filename: Calculator_spyware.apk
+File Size: 3.8 MB
+Threat Level: High
+Description: Calculator app with spyware capabilities
+
+Generated on: 01-Feb-2026 11:04:45
+For testing: Android Malware Analyzer
+
+Threat Level Explanation:
+- Contains suspicious permissions (READ_SMS, READ_CONTACTS, etc.)
+- Uses dangerous API calls
+- May contain malware, spyware, or adware

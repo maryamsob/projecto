@@ -1,0 +1,14 @@
+APK METADATA
+=============
+Filename: Antivirus_fake.apk
+File Size: 22.1 MB
+Threat Level: High
+Description: Fake antivirus application
+
+Generated on: 01-Feb-2026 11:04:46
+For testing: Android Malware Analyzer
+
+Threat Level Explanation:
+- Contains suspicious permissions (READ_SMS, READ_CONTACTS, etc.)
+- Uses dangerous API calls
+- May contain malware, spyware, or adware

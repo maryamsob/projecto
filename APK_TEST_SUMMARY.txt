@@ -1,0 +1,45 @@
+ANDROID MALWARE ANALYZER - TEST APK FILES
+==========================================
+
+Total Files: 21
+
+File List:
+Filename                            Size(MB)   Threat     Description
+----------------------------------------------------------------------------------------------------
+WhatsApp_original.apk               25.3       Low        Original WhatsApp application - clean version
+WhatsApp_clone_malware.apk          28.4       High       Malicious WhatsApp clone with spyware
+Facebook_lite.apk                   15.2       Low        Lightweight Facebook client
+Facebook_tracking.apk               45.2       Medium     Facebook with excessive tracking permissions
+Instagram_mod.apk                   32.1       Medium     Modified Instagram with extra features
+TikTok_data_collector.apk           85.4       High       TikTok variant collecting excessive data
+CleanMaster_adware.apk              18.9       High       Clean Master app with adware
+Uber_ride.apk                       76.3       Low        Legitimate Uber application
+FlashLight_trojan.apk               4.2        High       Flashlight app containing trojan
+TempleRun_game.apk                  56.7       Low        Popular Temple Run game
+WeatherApp_tracker.apk              12.4       Medium     Weather app with location tracking
+Calculator_spyware.apk              3.8        High       Calculator app with spyware capabilities
+VPN_free_malware.apk                9.7        High       Free VPN app containing malware
+MusicPlayer_clean.apk               15.3       Low        Simple music player app
+BatterySaver_adware.apk             7.9        High       Battery saver with aggressive ads
+PhotoEditor_pro.apk                 24.6       Low        Professional photo editor
+LauncherPro_malware.apk             14.2       High       Launcher app with hidden malware
+Antivirus_fake.apk                  22.1       High       Fake antivirus application
+DocumentScanner_clean.apk           18.7       Low        Document scanner app
+FitnessTracker_data.apk             34.5       Medium     Fitness tracker collecting health data
+Keyboard_theme_keylogger.apk        11.3       High       Keyboard theme with keylogger
+
+
+Threat Level Distribution:
+High Risk:    10 files
+Medium Risk:  4 files
+Low Risk:     7 files
+
+
+Instructions for Testing:
+1. Use these files with AndroidMalwareAnalyzer.m
+2. Browse to select any APK file
+3. Click "Analyze File" to see results
+4. High threat files should show malware warnings
+5. Low threat files should show as clean
+
+Generated on: 01-Feb-2026 11:04:47
